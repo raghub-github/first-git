@@ -19,7 +19,7 @@ public class recursion_function {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter a number");
         int n = sc.nextInt();
-        System.out.println("The factorial of "+n+"is "+factorial(n));
+        System.out.println("The factorial of "+n+" is :"+factorial(n));
 
     }
 }

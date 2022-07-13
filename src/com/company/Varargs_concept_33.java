@@ -7,7 +7,7 @@ public class Varargs_concept_33 {
 //    static int sum(int a,int b,int c){
 //        return  a+b+c;
 //    }
-    static int sum(int ...arr){ // now we can add soo many number together at a time
+    static int sum(int ...arr){ // now we can add so many number together at a time
         // available as a int [] arr;
         int result =0;
         for (int a:arr){
